@@ -7,7 +7,7 @@
 $ npm install --save simple-markov
 ```
 
-## Usage
+## Usage 
 
 ```js
 var SimpleMarkov = require('simple-markov');
