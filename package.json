@@ -1,6 +1,6 @@
 {
   "name": "simple-markov",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate text using a Markov chain",
   "homepage": "https://github.com/bsssshhhhhhh/simple-markov",
   "author": {
